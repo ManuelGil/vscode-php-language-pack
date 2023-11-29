@@ -1,0 +1,74 @@
+{
+  "name": "vscode-php-language-pack",
+  "displayName": "PHP Language Essential Extension Pack",
+  "description": "PHP Language Essential Extension Pack for VSCode Editor",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "license": "MIT",
+  "publisher": "imgildev",
+  "author": {
+    "name": "Manuel Gil",
+    "url": "https://github.com/ManuelGil"
+  },
+  "sponsor": {
+    "url": "https://github.com/sponsors/manuelgil"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "codeigniter",
+    "codeigniter4",
+    "extension-pack"
+  ],
+  "homepage": "https://github.com/ManuelGil/vscode-php-language-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ManuelGil/vscode-php-language-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/ManuelGil/vscode-php-language-pack/issues"
+  },
+  "extensionPack": [
+    "devsense.composer-php-vscode",
+    "hakcorp.php-awesome-snippets",
+    "junstyle.php-cs-fixer",
+    "xdebug.php-debug",
+    "neilbrayfield.php-docblocker",
+    "bmewburn.vscode-intelephense-client",
+    "mehedidracula.php-namespace-resolver",
+    "mrchetan.phpstorm-parameter-hints-in-vscode",
+    "onecentlin.phpunit-snippets",
+    "recca0120.vscode-phpunit",
+    "shufo.vscode-blade-formatter",
+    "onecentlin.laravel-blade",
+    "austenc.laravel-blade-spacer",
+    "whatwedo.twig",
+    "mblode.twig-language-2",
+    "imgildev.vscode-mustache-snippets",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "mushan.vscode-paste-image",
+    "vivaxy.vscode-conventional-commits",
+    "mhutchie.git-graph",
+    "codezombiech.gitignore",
+    "gitlab.gitlab-workflow",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "vincaslt.highlight-matching-tag",
+    "oderwat.indent-rainbow",
+    "mechatroner.rainbow-csv",
+    "shardulm94.trailing-spaces",
+    "mikestead.dotenv",
+    "jmkrivocapich.drawfolderstructure",
+    "editorconfig.editorconfig",
+    "kisstkondoros.vscode-gutter-preview",
+    "ritwickdey.liveserver",
+    "christian-kohler.path-intellisense"
+  ]
+}
