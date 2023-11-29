@@ -7,9 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2023-11-28
+
+### Fixed
+
+- Fix README.md
+
 ## [1.0.0] - 2023-11-28
 
 - Initial release
 
-[unreleased]: https://github.com/ManuelGil/vscode-php-language-pack/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/ManuelGil/vscode-php-language-pack/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/ManuelGil/vscode-php-language-pack/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ManuelGil/vscode-php-language-pack/releases/tag/v1.0.0

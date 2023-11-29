@@ -7,7 +7,11 @@ PHP Language Essential Extension Pack for VSCode Editor
 
 Based on [YoanDevPack](https://marketplace.visualstudio.com/items?itemName=YoanBernabeu.yoandevpack)
 
-## List of extensions
+## Requirements
+
+- VSCode 1.46.0 or later
+
+## Extensions included
 
 ### PHP
 
@@ -69,6 +73,18 @@ Based on [YoanDevPack](https://marketplace.visualstudio.com/items?itemName=YoanB
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+## Community
+
+- CodeIgniter Hispano [CiHispano](https://www.cihispano.org/)
+
+## Other extensions
+
+- [Mustache Template Engine - Snippets & Autocomplete](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets)
+- [Moodle Pack](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-moodle-snippets)
+- [CodeIgniter 4 Snippets for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-codeigniter4-snippets)
+- [CodeIgniter 4 Spark for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-codeigniter4-spark)
+- [NestJS Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension)
 
 ## Authors
 

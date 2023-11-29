@@ -2,7 +2,7 @@
   "name": "vscode-php-language-pack",
   "displayName": "PHP Language Essential Extension Pack",
   "description": "PHP Language Essential Extension Pack for VSCode Editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
