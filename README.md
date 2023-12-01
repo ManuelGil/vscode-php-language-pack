@@ -16,7 +16,9 @@ Based on [YoanDevPack](https://marketplace.visualstudio.com/items?itemName=YoanB
 ### PHP
 
 - [Composer](https://marketplace.visualstudio.com/items?itemName=devsense.composer-php-vscode)
+- [PHP Add Property](https://marketplace.visualstudio.com/items?itemName=kotfire.php-add-property)
 - [PHP Awesome Snippets](https://marketplace.visualstudio.com/items?itemName=hakcorp.php-awesome-snippets)
+- [PHP Constructor](https://marketplace.visualstudio.com/items?itemName=mehedidracula.php-constructor)
 - [PHP CS Fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
 - [PHP Debug](https://marketplace.visualstudio.com/items?itemName=xdebug.php-debug)
 - [PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)
