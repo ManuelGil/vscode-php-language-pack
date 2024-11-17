@@ -1,8 +1,8 @@
 {
   "name": "vscode-php-language-pack",
   "displayName": "PHP Language Essential Extension Pack",
-  "description": "PHP Language Essential Extension Pack for VSCode Editor",
-  "version": "1.1.0",
+  "description": "This extension pack includes tools for developing PHP Applications. It includes: PHP IntelliSense, debugging, code snippets, and more.",
+  "version": "1.2.0",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
@@ -71,6 +71,7 @@
     "whatwedo.twig",
     "mblode.twig-language-2",
     "imgildev.vscode-mustache-snippets",
+    "imgildev.vscode-json-flow",
     "yzhang.markdown-all-in-one",
     "davidanson.vscode-markdownlint",
     "mushan.vscode-paste-image",

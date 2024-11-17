@@ -1,11 +1,13 @@
 # PHP Language Essential Extension Pack
 
-[![Latest Release](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-php-language-pack?style=flat&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-php-language-pack)]()
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/imgildev.vscode-php-language-pack?style=for-the-badge&label=VS%20Marketplace&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/imgildev.vscode-php-language-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/imgildev.vscode-php-language-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/imgildev.vscode-php-language-pack?style=for-the-badge&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-php-language-pack&ssr=false#review-details)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-php-language-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-php-language-pack)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-php-language-pack?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-php-language-pack/blob/main/LICENSE)
 
-PHP Language Essential Extension Pack for VSCode Editor
-
-Based on [YoanDevPack](https://marketplace.visualstudio.com/items?itemName=YoanBernabeu.yoandevpack)
+This extension pack includes tools for developing PHP Applications. It includes: PHP IntelliSense, debugging, code snippets, and more.
 
 ## Requirements
 
@@ -73,20 +75,9 @@ Based on [YoanDevPack](https://marketplace.visualstudio.com/items?itemName=YoanB
 - [Draw Folder Structure](https://marketplace.visualstudio.com/items?itemName=jmkrivocapich.drawfolderstructure)
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=editorconfig.editorconfig)
 - [Image preview](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview)
+- [JSON Flow](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-json-flow)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
-
-## Community
-
-- CodeIgniter Hispano [CiHispano](https://www.cihispano.org/)
-
-## Other extensions
-
-- [Mustache Template Engine - Snippets & Autocomplete](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-mustache-snippets)
-- [Moodle Pack](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-moodle-snippets)
-- [CodeIgniter 4 Snippets for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-codeigniter4-snippets)
-- [CodeIgniter 4 Spark for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-codeigniter4-spark)
-- [NestJS Snippets for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-nestjs-snippets-extension)
 
 ## Authors
 
