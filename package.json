@@ -2,7 +2,7 @@
   "name": "vscode-php-language-pack",
   "displayName": "PHP Language Essential Extension Pack",
   "description": "This extension pack includes tools for developing PHP Applications. It includes: PHP IntelliSense, debugging, code snippets, and more.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "icon": "icon.png",
   "license": "MIT",
   "publisher": "imgildev",
